@@ -4,6 +4,7 @@ import Home from "./Components/Home";
 import About from "./Components/About";
 import Contact from "./Components/Contact";
 import Another from "./Components/Another";
+import './App.css';
 
 const App = () => {
   return <BrowserRouter>
